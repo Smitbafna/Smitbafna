@@ -24,6 +24,7 @@ Welcome to my GitHub profile! Here's a little bit about me:
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/smit-bafna-bb99372a3/)
+- 🐦 Follow me on Twitter: @bafnasmit_49
 
 Thanks for visiting my profile! Have a great day! 😊
 
