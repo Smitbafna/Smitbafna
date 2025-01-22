@@ -3,20 +3,18 @@
 Welcome to my GitHub profile! Here's a little bit about me:
 
 ## 🚀 About Me
-- 🔭 I’m currently working on various open source projects.
-- 🌱 I’m currently learning advanced algorithms and data structures.
-- 👯 I’m looking to collaborate on exciting web development projects.
-- 🤔 I’m looking for help with Kubernetes.
-- 💬 Ask me about JavaScript, Python, and web development.
+- 🔭 Web3 projects, especially Layer 2 solutions on Ethereum and decentralized applications.
+- 🌱 Advanced algorithms and data structures, with a focus on cryptography and consensus mechanisms.
+- 👯 Cutting-edge Web3 and decentralized finance (DeFi) projects, and exploring Layer 2 scalability solutions.
+- 💬 Ask me about: Smart contract development, blockchain scalability, Ethereum Layer 2 solutions, JavaScript, Python, and web development.
 - 📫 How to reach me: bafnasmit@gmail.com
-- ⚡ Fun fact: I love playing chess and solving puzzles.
+- ⚡ Fun fact: I love playing chess and solving puzzles, especially those related to blockchain and cryptography!
 
 ## 🛠️ Technologies & Tools
-- **💻 Languages**: JavaScript, Python, C++, Java
-- **🌐 Web Development**: HTML, CSS, React, Node.js, Django, Redis, Celery
+- **💻 Languages**: Solidity, Rust, Cairo, JavaScript, Python, Flutter
+- **🌐 Web Development**: HTML, CSS, React, Node.js, Django, 
 - **🛢️ Databases**: MongoDB, MySQL, PostgreSQL
 - **⚙️ Tools**: Git, Docker
-- **🧪 Testing**: Jest, Mocha
 
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Smitbafna&show_icons=true&hide_title=true)
