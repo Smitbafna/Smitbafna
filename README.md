@@ -15,3 +15,7 @@
   🎯 <strong><em>Always improving</em></strong>
 </p>
 
+<h1 align="center">Github Streaks</h1>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Smitbafna)](https://git.io/streak-stats)
+
